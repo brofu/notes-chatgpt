@@ -1,2 +1,3 @@
-# notes-chatgpt
-Key Points of ChatGPT
+# ChatGPT Notes
+
+All the stuff of ChatGPT

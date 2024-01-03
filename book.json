@@ -1,6 +1,7 @@
 {
     "title": "Brofu's Talk",
     "sortedBy": "-",
+    "unchanged": ["ChatGPT", "GPT-4"],
     "plugins": ["plantuml-cloud"] ,
     "pluginsConfig": {
     "plantuml-cloud": {
